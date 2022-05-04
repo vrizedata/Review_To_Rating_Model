@@ -1,5 +1,5 @@
 ﻿streamlit==1.5.1
 torch==1.10.2
 numpy
-spacy
-https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.2.0/en_core_web_sm-2.2.0.tar.gz#egg=en_core_web_sm
+spacy==3.3.0
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.3.0/en_core_web_sm-3.3.0.tar.gz#egg=en_core_web_sm
